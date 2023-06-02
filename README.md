@@ -2,9 +2,9 @@
 
 A Game Store shopping cart was created using Servlet and JSP.
 
-ICS608 - Applications Development and Emerging Technologies 1 (Web-Front-End) Project
+ICS2608 - Applications Development and Emerging Technologies 1 (Web-Front-End) Project
 
-We would like to acknowledge the following developers for their valuable contributions to this project:
+This project was created in December 2022 as our Finals Assessment Project for ICS2608. We would like to acknowledge the following developers for their valuable contributions to this project:
 - Daliuag, Ronan
 - Padrejuan, Shaun
 - Salvador, Fabian
